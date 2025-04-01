@@ -1,0 +1,16 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nom": "John Doe",
+      "adresse": "123 Main St",
+      "tel": "555-123-4567"
+    },
+    {
+      "id": "d55b",
+      "nom": "",
+      "adresse": "",
+      "tel": ""
+    }
+  ]
+}
